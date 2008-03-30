@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>static VALUE t_${1:method}(VALUE self${2:, VALUE ${3:arg1}}) 
+{
+	$0
+	return Qnil;
+} 
+</string>
+	<key>name</key>
+	<string>t_ method</string>
+	<key>scope</key>
+	<string>source.c.ruby</string>
+	<key>tabTrigger</key>
+	<string>t_</string>
+	<key>uuid</key>
+	<string>4CB4C975-1E63-49C7-8017-B75301850C16</string>
+</dict>
+</plist>

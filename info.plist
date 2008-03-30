@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Ruby C Extensions</string>
+	<key>ordering</key>
+	<array>
+		<string>5C0706C3-C6BA-434C-A26A-3901E6104461</string>
+		<string>4CB4C975-1E63-49C7-8017-B75301850C16</string>
+		<string>A6C5F464-C4A4-4C94-A8DC-E442FFBD823D</string>
+	</array>
+	<key>uuid</key>
+	<string>12EF1267-6289-4CB5-8B70-D6A3AC2B5397</string>
+</dict>
+</plist>

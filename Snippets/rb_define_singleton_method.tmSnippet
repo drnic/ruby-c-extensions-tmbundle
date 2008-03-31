@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>rb_define_singleton_method(${1:cClass}, "${2:method_name}", ${3:t_function}, ${4:num_args});</string>
+	<key>name</key>
+	<string>rb_define_singleton_method</string>
+	<key>scope</key>
+	<string>source.c.ruby</string>
+	<key>tabTrigger</key>
+	<string>rbdefs</string>
+	<key>uuid</key>
+	<string>566CD090-06F6-4FA8-812A-BE7381B7FBFB</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>rb_define_module("${1:RubyModule}");</string>
+	<key>name</key>
+	<string>rb_define_module</string>
+	<key>scope</key>
+	<string>source.c.ruby</string>
+	<key>tabTrigger</key>
+	<string>rbdm</string>
+	<key>uuid</key>
+	<string>5086B566-6CD6-4E6B-817B-9AF481C4950A</string>
+</dict>
+</plist>

@@ -20,6 +20,12 @@
 	<key>patterns</key>
 	<array>
 		<dict>
+			<key>match</key>
+			<string>\b(rb_[a-z_]*)\b</string>
+			<key>name</key>
+			<string>support.function.ruby.c</string>
+		</dict>
+		<dict>
 			<key>include</key>
 			<string>source.c</string>
 		</dict>

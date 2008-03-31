@@ -40,6 +40,12 @@
 			<string>constant.other.variable.ruby.c</string>
 		</dict>
 		<dict>
+			<key>match</key>
+			<string>\b(Qnil)\b</string>
+			<key>name</key>
+			<string>constant.language.c.ruby</string>
+		</dict>
+		<dict>
 			<key>include</key>
 			<string>source.c</string>
 		</dict>

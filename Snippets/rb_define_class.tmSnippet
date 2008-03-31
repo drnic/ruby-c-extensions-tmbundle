@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>rb_define_class("${1:RubyClass}", rb_cObject);</string>
+	<string>rb_define_class("${1:RubyClass}", rb_c${2:Object});</string>
 	<key>name</key>
 	<string>rb_define_class</string>
 	<key>scope</key>

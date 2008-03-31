@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>rb_define_attr(${1:variable}, "${2:method_name}", 0, 1);</string>
+	<key>name</key>
+	<string>rb_define_attr - write-only</string>
+	<key>scope</key>
+	<string>source.c.ruby</string>
+	<key>tabTrigger</key>
+	<string>w</string>
+	<key>uuid</key>
+	<string>4BFADD27-F7A4-4ED6-939A-75D902D18D30</string>
+</dict>
+</plist>

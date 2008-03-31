@@ -2,12 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>5C0706C3-C6BA-434C-A26A-3901E6104461</string>
+			<string>7CDFF6FA-6A85-4617-B0C1-7452E9F03A6F</string>
+			<string>41D9DD2A-158A-4347-B92D-5A2A291D2D8F</string>
+			<string>4CB4C975-1E63-49C7-8017-B75301850C16</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
 	<key>name</key>
 	<string>Ruby C Extensions</string>
 	<key>ordering</key>
 	<array>
 		<string>5C0706C3-C6BA-434C-A26A-3901E6104461</string>
 		<string>4CB4C975-1E63-49C7-8017-B75301850C16</string>
+		<string>7CDFF6FA-6A85-4617-B0C1-7452E9F03A6F</string>
+		<string>41D9DD2A-158A-4347-B92D-5A2A291D2D8F</string>
 		<string>A6C5F464-C4A4-4C94-A8DC-E442FFBD823D</string>
 	</array>
 	<key>uuid</key>

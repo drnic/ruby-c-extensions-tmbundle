@@ -6,13 +6,61 @@
 	<dict>
 		<key>items</key>
 		<array>
-			<string>5C0706C3-C6BA-434C-A26A-3901E6104461</string>
-			<string>7CDFF6FA-6A85-4617-B0C1-7452E9F03A6F</string>
-			<string>41D9DD2A-158A-4347-B92D-5A2A291D2D8F</string>
-			<string>4CB4C975-1E63-49C7-8017-B75301850C16</string>
+			<string>609FA853-7AB8-4F57-8034-FA6030FF7C91</string>
+			<string>0F43F061-3128-4E89-B865-6E8355DBFD25</string>
+			<string>9D16E5D4-39EA-4061-B0FE-DF8AE74B5060</string>
+			<string>8E09CACE-15C6-43EA-9562-60242040CFC5</string>
+			<string>EC35D75E-8FAB-499B-8F01-520DF2F3D4C9</string>
 		</array>
 		<key>submenus</key>
-		<dict/>
+		<dict>
+			<key>0F43F061-3128-4E89-B865-6E8355DBFD25</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>7CDFF6FA-6A85-4617-B0C1-7452E9F03A6F</string>
+					<string>5086B566-6CD6-4E6B-817B-9AF481C4950A</string>
+					<string>0AE59401-1796-4EB5-81ED-2AD6C59095DC</string>
+					<string>4D9376BC-6942-479C-AEC0-E8FF5E737A4F</string>
+					<string>55C94B01-BA92-48EC-8784-F801AD2F9247</string>
+					<string>57FB4AEE-AB7F-4C45-BCF7-D87092A1AE35</string>
+					<string>8D3EC071-795B-4A60-84EB-C419C18F452E</string>
+				</array>
+				<key>name</key>
+				<string>Defining Classes</string>
+			</dict>
+			<key>8E09CACE-15C6-43EA-9562-60242040CFC5</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>466C32B5-EC5E-48D5-80F8-E96C80C64431</string>
+					<string>A16CCD96-2BD5-4BB2-AA7E-A4FCF4FC7B8B</string>
+				</array>
+				<key>name</key>
+				<string>Objects</string>
+			</dict>
+			<key>9D16E5D4-39EA-4061-B0FE-DF8AE74B5060</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5C0706C3-C6BA-434C-A26A-3901E6104461</string>
+					<string>41D9DD2A-158A-4347-B92D-5A2A291D2D8F</string>
+					<string>4CB4C975-1E63-49C7-8017-B75301850C16</string>
+				</array>
+				<key>name</key>
+				<string>Defining Methods</string>
+			</dict>
+			<key>EC35D75E-8FAB-499B-8F01-520DF2F3D4C9</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>BE5933EB-1E0C-468F-9B4F-7B1657611B6A</string>
+					<string>EBFA9FEB-3737-42C8-9E82-C4C92A0B68D1</string>
+				</array>
+				<key>name</key>
+				<string>Arrays</string>
+			</dict>
+		</dict>
 	</dict>
 	<key>name</key>
 	<string>Ruby C Extensions</string>

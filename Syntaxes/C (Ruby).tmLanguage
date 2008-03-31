@@ -26,6 +26,20 @@
 			<string>support.function.ruby.c</string>
 		</dict>
 		<dict>
+			<key>match</key>
+			<string>\b(VALUE)\b</string>
+			<key>name</key>
+			<string>storage.type.ruby.c</string>
+		</dict>
+		<dict>
+			<key>comment</key>
+			<string>common C constant naming idiom -- rb_cConstantVariable</string>
+			<key>match</key>
+			<string>\brb_c[A-Z]\w*\b</string>
+			<key>name</key>
+			<string>constant.other.variable.ruby.c</string>
+		</dict>
+		<dict>
 			<key>include</key>
 			<string>source.c</string>
 		</dict>

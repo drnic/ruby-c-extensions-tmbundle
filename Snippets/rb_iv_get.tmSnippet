@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>rb_iv_get(self, "@${1:instance_variable}")</string>
+	<key>name</key>
+	<string>rb_iv_get</string>
+	<key>scope</key>
+	<string>source.c.ruby</string>
+	<key>tabTrigger</key>
+	<string>rbig</string>
+	<key>uuid</key>
+	<string>466C32B5-EC5E-48D5-80F8-E96C80C64431</string>
+</dict>
+</plist>

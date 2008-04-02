@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>ID2SYM(${1:id})</string>
+	<key>name</key>
+	<string>ID2SYM</string>
+	<key>scope</key>
+	<string>source.c.ruby</string>
+	<key>tabTrigger</key>
+	<string>i2s</string>
+	<key>uuid</key>
+	<string>2134E7B4-7DC1-43E9-9A7E-ECDCCF0520F7</string>
+</dict>
+</plist>

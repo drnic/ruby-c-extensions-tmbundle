@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>SYM2ID(${1:symbol})</string>
+	<key>name</key>
+	<string>SYM2ID</string>
+	<key>scope</key>
+	<string>source.c.ruby</string>
+	<key>tabTrigger</key>
+	<string>s2i</string>
+	<key>uuid</key>
+	<string>74205D93-8B10-4050-BB52-2AC377040181</string>
+</dict>
+</plist>

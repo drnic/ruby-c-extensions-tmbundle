@@ -11,6 +11,8 @@
 			<string>9D16E5D4-39EA-4061-B0FE-DF8AE74B5060</string>
 			<string>8E09CACE-15C6-43EA-9562-60242040CFC5</string>
 			<string>EC35D75E-8FAB-499B-8F01-520DF2F3D4C9</string>
+			<string>6BB806E0-38CD-4F8F-A17B-705F9994E6DB</string>
+			<string>FDE489A9-89BB-4D4E-B088-84CE7651D3BF</string>
 		</array>
 		<key>submenus</key>
 		<dict>
@@ -28,6 +30,17 @@
 				</array>
 				<key>name</key>
 				<string>Defining Classes</string>
+			</dict>
+			<key>6BB806E0-38CD-4F8F-A17B-705F9994E6DB</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>5D5D68E7-3057-4847-AEDE-C84BE466FBB5</string>
+					<string>D0C4A61A-2749-4E9F-B338-C17E4CE676A6</string>
+					<string>79B5679D-0F46-4D63-872A-2AAD179F041C</string>
+				</array>
+				<key>name</key>
+				<string>Strings</string>
 			</dict>
 			<key>8E09CACE-15C6-43EA-9562-60242040CFC5</key>
 			<dict>
@@ -75,6 +88,18 @@
 				<key>name</key>
 				<string>Arrays</string>
 			</dict>
+			<key>FDE489A9-89BB-4D4E-B088-84CE7651D3BF</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>DAF0FF7A-7304-4B0A-8A8B-AB5F542537FE</string>
+					<string>12285CD3-8E0C-4606-96C2-1C33FB01032F</string>
+					<string>2134E7B4-7DC1-43E9-9A7E-ECDCCF0520F7</string>
+					<string>74205D93-8B10-4050-BB52-2AC377040181</string>
+				</array>
+				<key>name</key>
+				<string>Symbols</string>
+			</dict>
 		</dict>
 	</dict>
 	<key>name</key>
@@ -103,6 +128,13 @@
 		<string>EBFA9FEB-3737-42C8-9E82-C4C92A0B68D1</string>
 		<string>609FA853-7AB8-4F57-8034-FA6030FF7C91</string>
 		<string>A6C5F464-C4A4-4C94-A8DC-E442FFBD823D</string>
+		<string>5D5D68E7-3057-4847-AEDE-C84BE466FBB5</string>
+		<string>D0C4A61A-2749-4E9F-B338-C17E4CE676A6</string>
+		<string>79B5679D-0F46-4D63-872A-2AAD179F041C</string>
+		<string>DAF0FF7A-7304-4B0A-8A8B-AB5F542537FE</string>
+		<string>12285CD3-8E0C-4606-96C2-1C33FB01032F</string>
+		<string>2134E7B4-7DC1-43E9-9A7E-ECDCCF0520F7</string>
+		<string>74205D93-8B10-4050-BB52-2AC377040181</string>
 	</array>
 	<key>uuid</key>
 	<string>12EF1267-6289-4CB5-8B70-D6A3AC2B5397</string>

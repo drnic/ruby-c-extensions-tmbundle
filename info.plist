@@ -9,6 +9,7 @@
 			<string>609FA853-7AB8-4F57-8034-FA6030FF7C91</string>
 			<string>0F43F061-3128-4E89-B865-6E8355DBFD25</string>
 			<string>9D16E5D4-39EA-4061-B0FE-DF8AE74B5060</string>
+			<string>0CE72922-19B6-41F1-8B75-FD94D0A3D835</string>
 			<string>C8C2E1D7-F771-4A51-B832-D76045A8BF4B</string>
 			<string>8E09CACE-15C6-43EA-9562-60242040CFC5</string>
 			<string>EC35D75E-8FAB-499B-8F01-520DF2F3D4C9</string>
@@ -17,6 +18,16 @@
 		</array>
 		<key>submenus</key>
 		<dict>
+			<key>0CE72922-19B6-41F1-8B75-FD94D0A3D835</key>
+			<dict>
+				<key>items</key>
+				<array>
+					<string>89D51D82-610E-4171-825C-6F4297166A23</string>
+					<string>85CBBB85-B8E7-4D92-97A3-7DC9C3DB0B12</string>
+				</array>
+				<key>name</key>
+				<string>Calling Methods</string>
+			</dict>
 			<key>0F43F061-3128-4E89-B865-6E8355DBFD25</key>
 			<dict>
 				<key>items</key>
@@ -150,6 +161,8 @@
 		<string>57BF501D-E165-48DB-BBDB-B06ACA00D57F</string>
 		<string>1F4DF7B0-5FA2-4ECE-85AB-9EB34496DF34</string>
 		<string>8541DEAC-25D3-4C54-90DD-17153676E96B</string>
+		<string>89D51D82-610E-4171-825C-6F4297166A23</string>
+		<string>85CBBB85-B8E7-4D92-97A3-7DC9C3DB0B12</string>
 	</array>
 	<key>uuid</key>
 	<string>12EF1267-6289-4CB5-8B70-D6A3AC2B5397</string>

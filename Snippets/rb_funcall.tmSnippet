@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>rb_fatal("${1:format like printf}"$2)</string>
+	<string>rb_funcall(${1:receiver}, rb_intern("${2:method}"), ${3:0})</string>
 	<key>name</key>
-	<string>rb_fatal</string>
+	<string>rb_funcall</string>
 	<key>scope</key>
 	<string>source.c.ruby</string>
 	<key>tabTrigger</key>
-	<string>rbfe</string>
+	<string>rbf</string>
 	<key>uuid</key>
-	<string>1F4DF7B0-5FA2-4ECE-85AB-9EB34496DF34</string>
+	<string>89D51D82-610E-4171-825C-6F4297166A23</string>
 </dict>
 </plist>

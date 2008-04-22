@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>rb_bug("${1:format like printf}"$2)</string>
+	<key>name</key>
+	<string>Interpreter Bug</string>
+	<key>scope</key>
+	<string>source.c.ruby</string>
+	<key>tabTrigger</key>
+	<string>rbbe</string>
+	<key>uuid</key>
+	<string>8541DEAC-25D3-4C54-90DD-17153676E96B</string>
+</dict>
+</plist>

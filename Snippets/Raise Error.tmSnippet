@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>rb_raise(${1:rb_eRuntimeError}, "${2:format like printf}"$3)
+</string>
+	<key>name</key>
+	<string>Raise Error</string>
+	<key>scope</key>
+	<string>source.c.ruby</string>
+	<key>tabTrigger</key>
+	<string>rbre</string>
+	<key>uuid</key>
+	<string>57BF501D-E165-48DB-BBDB-B06ACA00D57F</string>
+</dict>
+</plist>

@@ -6,7 +6,7 @@
 	<string>rb_raise(${1:rb_eRuntimeError}, "${2:format like printf}"$3)
 </string>
 	<key>name</key>
-	<string>rb_raise</string>
+	<string>rb_raise (Raise Error)</string>
 	<key>scope</key>
 	<string>source.c.ruby</string>
 	<key>tabTrigger</key>

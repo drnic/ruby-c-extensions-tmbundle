@@ -6,7 +6,7 @@
 	<string>rb_funcall2(${1:receiver}, rb_intern("${2:method}"), ${4:RARRAY_LEN({$3})}, ${3:argv})
 </string>
 	<key>name</key>
-	<string>rb_funcall2</string>
+	<string>rb_funcall2 (Call w/Args Array)</string>
 	<key>scope</key>
 	<string>source.c.ruby</string>
 	<key>tabTrigger</key>

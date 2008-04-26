@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>rb_bug("${1:format like printf}"$2)</string>
 	<key>name</key>
-	<string>rb_bug</string>
+	<string>rb_bug (Raise Interpreter Bug)</string>
 	<key>scope</key>
 	<string>source.c.ruby</string>
 	<key>tabTrigger</key>

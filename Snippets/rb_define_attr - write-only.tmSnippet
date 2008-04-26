@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>rb_define_attr(${1:variable}, "${2:method_name}", 0, 1);</string>
 	<key>name</key>
-	<string>rb_define_attr - write-only</string>
+	<string>rb_define_attr (Write-only)</string>
 	<key>scope</key>
 	<string>source.c.ruby</string>
 	<key>tabTrigger</key>

@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>rb_str_new2(${2:"${1:value}"})</string>
 	<key>name</key>
-	<string>rb_str_new2</string>
+	<string>rb_str_new2 (Create String)</string>
 	<key>scope</key>
 	<string>source.c.ruby</string>
 	<key>tabTrigger</key>

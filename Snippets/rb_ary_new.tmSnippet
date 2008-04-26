@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>rb_ary_new()</string>
 	<key>name</key>
-	<string>rb_ary_new</string>
+	<string>rb_ary_new (Create Array)</string>
 	<key>scope</key>
 	<string>source.c.ruby</string>
 	<key>tabTrigger</key>

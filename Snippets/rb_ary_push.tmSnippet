@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>rb_ary_push(${1:array_var}, ${2:object})</string>
 	<key>name</key>
-	<string>rb_ary_push</string>
+	<string>rb_ary_push (Add to Array)</string>
 	<key>scope</key>
 	<string>source.c.ruby</string>
 	<key>tabTrigger</key>

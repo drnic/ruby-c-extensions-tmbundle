@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>rb_funcall(${1:receiver}, rb_intern("${2:method}"), ${3:0})</string>
 	<key>name</key>
-	<string>rb_funcall</string>
+	<string>rb_funcall (Call Function)</string>
 	<key>scope</key>
 	<string>source.c.ruby</string>
 	<key>tabTrigger</key>
